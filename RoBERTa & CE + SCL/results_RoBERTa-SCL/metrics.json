@@ -1,0 +1,108 @@
+{
+  "model": "RoBERTa-SCL",
+  "model_hf_name": "roberta-base",
+  "dataset": "SST-2",
+  "run_name": "roberta-base_ep3_bs32_lr2e-05_28_03_2026_13_57_21",
+  "timestamp": "28_03_2026_13_57_21",
+  "seed": 42,
+  "model_params": {
+    "num_epochs": 3,
+    "batch_size": 32,
+    "learning_rate": 2e-05,
+    "max_length": 128,
+    "total_params": 124762114,
+    "trainable_params": 124762114,
+    "temperature": 0.3,
+    "lambda_scl": 0.5,
+    "proj_dim": 128
+  },
+  "model_size": {
+    "bytes": 499048456,
+    "MB": 475.9297
+  },
+  "training": {
+    "training_time_seconds": 237.3663,
+    "entries_per_second": 851.2,
+    "num_epochs": 3,
+    "train_samples": 67349
+  },
+  "data": {
+    "train_samples": 67349,
+    "validation_samples": 872,
+    "test_samples": 1821,
+    "text_column": "sentence_original",
+    "label_column": "label",
+    "classes": [
+      0,
+      1
+    ]
+  },
+  "optimizer": {
+    "name": "AdamW",
+    "lr": 2e-05,
+    "weight_decay": 0.01
+  },
+  "scheduler": {
+    "name": "linear_warmup",
+    "warmup_ratio": 0.06,
+    "total_steps": 6315
+  },
+  "train_results": {
+    "accuracy": 0.9821,
+    "precision_macro": 0.9818,
+    "recall_macro": 0.9819,
+    "f1_macro": 0.9818,
+    "precision_per_class": [
+      0.9793,
+      0.9842
+    ],
+    "recall_per_class": [
+      0.9801,
+      0.9836
+    ],
+    "f1_per_class": [
+      0.9797,
+      0.9839
+    ],
+    "confusion_matrix": [
+      [
+        29188,
+        592
+      ],
+      [
+        616,
+        36953
+      ]
+    ],
+    "loss": 0.0699
+  },
+  "validation_results": {
+    "accuracy": 0.9438,
+    "precision_macro": 0.9438,
+    "recall_macro": 0.9438,
+    "f1_macro": 0.9438,
+    "precision_per_class": [
+      0.9438,
+      0.9438
+    ],
+    "recall_per_class": [
+      0.9416,
+      0.9459
+    ],
+    "f1_per_class": [
+      0.9427,
+      0.9449
+    ],
+    "confusion_matrix": [
+      [
+        403,
+        25
+      ],
+      [
+        24,
+        420
+      ]
+    ],
+    "loss": 0.2499
+  }
+}

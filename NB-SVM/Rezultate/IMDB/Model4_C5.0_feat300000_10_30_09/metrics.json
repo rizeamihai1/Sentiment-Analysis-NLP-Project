@@ -1,0 +1,26 @@
+{
+  "model": "Model4",
+  "dataset": "IMDB",
+  "params": {
+    "C": 5.0,
+    "ngram": [
+      1,
+      3
+    ],
+    "max_feat": 300000,
+    "sub_tf": true
+  },
+  "train_results": {
+    "acc": 0.9923,
+    "loss": 0.09
+  },
+  "val_results": {
+    "acc": 0.916,
+    "loss": 0.2773
+  },
+  "test_results": {
+    "acc": 0.9096,
+    "loss": 0.299,
+    "f1_macro": 0.9096
+  }
+}

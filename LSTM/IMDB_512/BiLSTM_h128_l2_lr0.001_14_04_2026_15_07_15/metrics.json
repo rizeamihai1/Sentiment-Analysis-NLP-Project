@@ -1,0 +1,114 @@
+{
+  "model": "LSTM",
+  "model_name": "BiLSTM-GloVe-300d",
+  "dataset": "IMDB_512",
+  "run_name": "BiLSTM_h128_l2_lr0.001_14_04_2026_15_07_15",
+  "timestamp": "14_04_2026_15_07_15",
+  "seed": 42,
+  "model_params": {
+    "num_epochs": 10,
+    "batch_size": 64,
+    "learning_rate": 0.001,
+    "hidden_size": 128,
+    "num_layers": 2,
+    "dropout": 0.5,
+    "embed_dim": 300,
+    "max_length": 50000,
+    "vocab_size": 42920,
+    "bidirectional": true,
+    "total_params": 13712098,
+    "trainable_params": 836098
+  },
+  "model_size": {
+    "bytes": 54848392,
+    "MB": 52.3075
+  },
+  "training": {
+    "training_time_seconds": 1772.1113,
+    "entries_per_second": 112.86,
+    "num_epochs": 10,
+    "best_epoch": 7,
+    "train_samples": 20000
+  },
+  "data": {
+    "train_samples": 20000,
+    "validation_samples": 5000,
+    "test_samples": 25000,
+    "text_column": "text_original",
+    "label_column": "label",
+    "classes": [
+      0,
+      1
+    ]
+  },
+  "optimizer": {
+    "name": "Adam",
+    "lr": 0.001
+  },
+  "train_results": {
+    "accuracy": 0.9423,
+    "loss": 0.1566
+  },
+  "validation_results": {
+    "accuracy": 0.8938,
+    "loss": 0.3096,
+    "precision_macro": 0.8938,
+    "recall_macro": 0.8938,
+    "f1_macro": 0.8938,
+    "auc": 0.9545,
+    "avg_precision": 0.9526,
+    "precision_per_class": [
+      0.8915,
+      0.8962
+    ],
+    "recall_per_class": [
+      0.8968,
+      0.8908
+    ],
+    "f1_per_class": [
+      0.8941,
+      0.8935
+    ],
+    "confusion_matrix": [
+      [
+        2242,
+        258
+      ],
+      [
+        273,
+        2227
+      ]
+    ]
+  },
+  "test_results": {
+    "accuracy": 0.898,
+    "loss": 0.2852,
+    "precision_macro": 0.8981,
+    "recall_macro": 0.898,
+    "f1_macro": 0.898,
+    "auc": 0.9595,
+    "avg_precision": 0.9558,
+    "precision_per_class": [
+      0.8945,
+      0.9017
+    ],
+    "recall_per_class": [
+      0.9026,
+      0.8935
+    ],
+    "f1_per_class": [
+      0.8985,
+      0.8976
+    ],
+    "confusion_matrix": [
+      [
+        11282,
+        1218
+      ],
+      [
+        1331,
+        11169
+      ]
+    ]
+  }
+}

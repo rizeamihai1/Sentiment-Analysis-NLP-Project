@@ -1,0 +1,135 @@
+{
+  "model": "RoBERTa-CE",
+  "model_hf_name": "roberta-base",
+  "dataset": "IMDB",
+  "run_name": "roberta-base_ep3_bs32_lr2e-05_14_04_2026_10_38_12",
+  "timestamp": "14_04_2026_10_38_12",
+  "seed": 42,
+  "model_params": {
+    "num_epochs": 3,
+    "batch_size": 32,
+    "learning_rate": 2e-05,
+    "max_length": 256,
+    "total_params": 124762114,
+    "trainable_params": 124762114,
+    "lambda_scl": 0.0
+  },
+  "model_size": {
+    "bytes": 499048456,
+    "MB": 475.9297
+  },
+  "training": {
+    "training_time_seconds": 1040.2631,
+    "entries_per_second": 57.68,
+    "num_epochs": 3,
+    "train_samples": 20000
+  },
+  "data": {
+    "train_samples": 20000,
+    "validation_samples": 5000,
+    "test_samples": 25000,
+    "text_column": "text_original",
+    "label_column": "label",
+    "classes": [
+      0,
+      1
+    ]
+  },
+  "optimizer": {
+    "name": "AdamW",
+    "lr": 2e-05,
+    "weight_decay": 0.01
+  },
+  "scheduler": {
+    "name": "linear_warmup",
+    "warmup_ratio": 0.06,
+    "total_steps": 1875
+  },
+  "train_results": {
+    "accuracy": 0.9853,
+    "precision_macro": 0.9853,
+    "recall_macro": 0.9853,
+    "f1_macro": 0.9853,
+    "precision_per_class": [
+      0.9886,
+      0.982
+    ],
+    "recall_per_class": [
+      0.9819,
+      0.9887
+    ],
+    "f1_per_class": [
+      0.9852,
+      0.9853
+    ],
+    "confusion_matrix": [
+      [
+        9819,
+        181
+      ],
+      [
+        113,
+        9887
+      ]
+    ],
+    "loss": 0.0574
+  },
+  "validation_results": {
+    "accuracy": 0.9336,
+    "precision_macro": 0.9336,
+    "recall_macro": 0.9336,
+    "f1_macro": 0.9336,
+    "precision_per_class": [
+      0.9353,
+      0.9319
+    ],
+    "recall_per_class": [
+      0.9316,
+      0.9356
+    ],
+    "f1_per_class": [
+      0.9335,
+      0.9337
+    ],
+    "confusion_matrix": [
+      [
+        2329,
+        171
+      ],
+      [
+        161,
+        2339
+      ]
+    ],
+    "loss": 0.2493
+  },
+  "test_results": {
+    "accuracy": 0.9382,
+    "precision_macro": 0.9383,
+    "recall_macro": 0.9382,
+    "f1_macro": 0.9382,
+    "precision_per_class": [
+      0.9431,
+      0.9334
+    ],
+    "recall_per_class": [
+      0.9326,
+      0.9438
+    ],
+    "f1_per_class": [
+      0.9379,
+      0.9385
+    ],
+    "confusion_matrix": [
+      [
+        11658,
+        842
+      ],
+      [
+        703,
+        11797
+      ]
+    ],
+    "loss": 0.2329
+  }
+}

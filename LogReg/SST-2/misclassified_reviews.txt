@@ -1,0 +1,599 @@
+Misclassified Reviews
+=====================
+
+Review: or doing last year 's taxes with your ex-wife . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: in its best moments , resembles a bad high school production of grease , without benefit of song . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: pumpkin takes an admirable look at the hypocrisy of political correctness , but it does so with such an uneven tone that you never know when humor ends and tragedy begins . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: the iditarod lasts for days - this just felt like it did . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: holden caulfield did it better . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: if the movie succeeds in instilling a wary sense of ` there but for the grace of god , ' it is far too self-conscious to draw you deeply into its world . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: ( w ) hile long on amiable monkeys and worthy environmentalism , jane goodall 's wild chimpanzees is short on the thrills the oversize medium demands . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: the subtle strength of `` elling '' is that it never loses touch with the reality of the grim situation . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: the title not only describes its main characters , but the lazy people behind the camera as well . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: it offers little beyond the momentary joys of pretty and weightless intellectual entertainment . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: manages to be both repulsively sadistic and mundane . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: it 's just disappointingly superficial -- a movie that has all the elements necessary to be a fascinating , involving character study , but never does more than scratch the surface . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: the script kicks in , and mr. hartley 's distended pace and foot-dragging rhythms follow . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: this one is definitely one to skip , even for horror movie fanatics . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: one of creepiest , scariest movies to come along in a long , long time , easily rivaling blair witch or the others . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: though it 's become almost redundant to say so , major kudos go to leigh for actually casting people who look working-class . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: fresnadillo 's dark and jolting images have a way of plying into your subconscious like the nightmare you had a week ago that wo n't go away . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: if steven soderbergh 's ` solaris ' is a failure it is a glorious failure . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: this riveting world war ii moral suspense story deals with the shadow side of american culture : racial prejudice in its ugly and diverse forms . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: neither parker nor donovan is a typical romantic lead , but they bring a fresh , quirky charm to the formula . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: scores no points for originality , wit , or intelligence . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: hilariously inept and ridiculous . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: sam mendes has become valedictorian at the school for soft landings and easy ways out . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: every nanosecond of the the new guy reminds you that you could be doing something else far more pleasurable . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: it seems to me the film is about the art of ripping people off without ever letting them consciously know you have done so 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: turns potentially forgettable formula into something strangely diverting . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: ( lawrence bounces ) all over the stage , dancing , running , sweating , mopping his face and generally displaying the wacky talent that brought him fame in the first place . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: in the end , we are left with something like two ships passing in the night rather than any insights into gay love , chinese society or the price one pays for being dishonest . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: the tale of tok ( andy lau ) , a sleek sociopath on the trail of o ( takashi sorimachi ) , the most legendary of asian hitmen , is too scattershot to take hold . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: pumpkin means to be an outrageous dark satire on fraternity life , but its ambitions far exceed the abilities of writer adam larson broder and his co-director , tony r. abrams , in their feature debut . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: the best that can be said about the work here of scottish director ritchie ... is that he obviously does n't have his heart in it . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: a difficult , absorbing film that manages to convey more substance despite its repetitions and inconsistencies than do most films than are far more pointed and clear . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: it takes talent to make a lifeless movie about the most heinous man who ever lived . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: by getting myself wrapped up in the visuals and eccentricities of many of the characters , i found myself confused when it came time to get to the heart of the movie . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: it seems like i have been waiting my whole life for this movie and now i ca n't wait for the sequel . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: determined to be fun , and bouncy , with energetic musicals , the humor did n't quite engage this adult . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: the lower your expectations , the more you 'll enjoy it . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: though perry and hurley make inspiring efforts to breathe life into the disjointed , haphazard script by jay scherick and david ronn , neither the actors nor director reginald hudlin can make it more than fitfully entertaining . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: my thoughts were focused on the characters . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: so , too , is this comedy about mild culture clashing in today 's new delhi . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: to say this was done better in wilder 's some like it hot is like saying the sun rises in the east . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: all that 's missing is the spontaneity , originality and delight . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: not since japanese filmmaker akira kurosawa 's ran have the savagery of combat and the specter of death been visualized with such operatic grandeur . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: the film tunes into a grief that could lead a man across centuries . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: a full world has been presented onscreen , not some series of carefully structured plot points building to a pat resolution . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: if you believe any of this , i can make you a real deal on leftover enron stock that will double in value a week from friday . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: a coda in every sense , the pinochet case splits time between a minute-by-minute account of the british court 's extradition chess game and the regime 's talking-head survivors . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: it 's played in the most straight-faced fashion , with little humor to lighten things up . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: as unseemly as its title suggests . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: minority report is exactly what the title indicates , a report . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: chokes on its own depiction of upper-crust decorum . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: while there 's something intrinsically funny about sir anthony hopkins saying ` get in the car , bitch , ' this jerry bruckheimer production has little else to offer 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: the story and the friendship proceeds in such a way that you 're watching a soap opera rather than a chronicle of the ups and downs that accompany lifelong friendships . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: its well of thorn and vinegar ( and simple humanity ) has long been plundered by similar works featuring the insight and punch this picture so conspicuously lacks . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: i 'll bet the video game is a lot more fun than the film . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: that 's pure pr hype . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: a painfully funny ode to bad behavior . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: an unwise amalgam of broadcast news and vibes . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: ( d ) oes n't bother being as cloying or preachy as equivalent evangelical christian movies -- maybe the filmmakers know that the likely audience will already be among the faithful . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: the movie is what happens when you blow up small potatoes to 10 times their natural size , and it ai n't pretty . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: we have n't seen such hilarity since say it is n't so ! 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: a great ensemble cast ca n't lift this heartfelt enterprise out of the familiar . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: despite its title , punch-drunk love is never heavy-handed . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: however it may please those who love movies that blare with pop songs , young science fiction fans will stomp away in disgust . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: outer-space buffs might love this film , but others will find its pleasures intermittent . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: one of the more irritating cartoons you will see this , or any , year . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: it moves quickly , adroitly , and without fuss ; it does n't give you time to reflect on the inanity -- and the cold war datedness -- of its premise . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: a marvel like none you 've seen . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: something akin to a japanese alice through the looking glass , except that it seems to take itself far more seriously . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: oh come on . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: not only are the special effects and narrative flow much improved , and daniel radcliffe more emotionally assertive this time around as harry , but the film conjures the magic of author j.k. rowling 's books . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: sticky sweet sentimentality , clumsy plotting and a rosily myopic view of life in the wwii-era mississippi delta undermine this adaptation . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: ramsay , as in ratcatcher , remains a filmmaker with an acid viewpoint and a real gift for teasing chilly poetry out of lives and settings that might otherwise seem drab and sordid . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: a tv style murder mystery with a few big screen moments ( including one that seems to be made for a different film altogether ) . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: a by-the-numbers patient/doctor pic that covers all the usual ground 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: while undisputed is n't exactly a high , it is a gripping , tidy little movie that takes mr. hill higher than he 's been in a while . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: even if you do n't think ( kissinger 's ) any more guilty of criminal activity than most contemporary statesmen , he 'd sure make a courtroom trial great fun to watch . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: it 's about following your dreams , no matter what your parents think . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: care deftly captures the wonder and menace of growing up , but he never really embraces the joy of fuhrman 's destructive escapism or the grace-in-rebellion found by his characters . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: not far beneath the surface , this reconfigured tale asks disturbing questions about those things we expect from military epics . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: moretti 's compelling anatomy of grief and the difficult process of adapting to loss . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: it 's a bit disappointing that it only manages to be decent instead of dead brilliant . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: it haunts , horrifies , startles and fascinates ; it is impossible to look away . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: a disappointment for those who love alternate versions of the bard , particularly ones that involve deep fryers and hamburgers . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: do not see this film . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: for each chuckle there are at least 10 complete misses , many coming from the amazingly lifelike tara reid , whose acting skills are comparable to a cardboard cutout . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: although huppert 's intensity and focus has a raw exhilaration about it , the piano teacher is anything but fun . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: from the opening scenes , it 's clear that all about the benjamins is a totally formulaic movie . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: on the heels of the ring comes a similarly morose and humorless horror movie that , although flawed , is to be commended for its straight-ahead approach to creepiness . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: the film is based on truth and yet there is something about it that feels incomplete , as if the real story starts just around the corner . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: although german cooking does not come readily to mind when considering the world 's best cuisine , mostly martha could make deutchland a popular destination for hungry tourists . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: do n't be fooled by the impressive cast list - eye see you is pure junk . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: another one of those estrogen overdose movies like `` divine secrets of the ya ya sisterhood , '' except that the writing , acting and character development are a lot better . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: a broad , melodramatic estrogen opera that 's pretty toxic in its own right . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: ( director ) o'fallon manages to put some lovely pictures up on the big screen , but his skill at telling a story -- he also contributed to the screenplay -- falls short . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: despite all evidence to the contrary , this clunker has somehow managed to pose as an actual feature movie , the kind that charges full admission and gets hyped on tv and purports to amuse small children and ostensible adults . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: a hamfisted romantic comedy that makes our girl the hapless facilitator of an extended cheap shot across the mason-dixon line . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: director uwe boll and the actors provide scant reason to care in this crude '70s throwback . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: if your taste runs to ` difficult ' films you absolutely ca n't miss it . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: the director knows how to apply textural gloss , but his portrait of sex-as-war is strictly sitcom . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: fancy a real downer ? 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: nine queens is not only than a frighteningly capable debut and genre piece , but also a snapshot of a dangerous political situation on the verge of coming to a head . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: the moviegoing equivalent of going to a dinner party and being forced to watch the host and hostess 's home video of their baby 's birth . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: it is amusing , and that 's all it needs to be . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: a taut psychological thriller that does n't waste a moment of its two-hour running time . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: burns never really harnesses to full effect the energetic cast . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: the jabs it employs are short , carefully placed and dead-center . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: the longer the movie goes , the worse it gets , but it 's actually pretty good in the first few minutes . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: so much facile technique , such cute ideas , so little movie . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: chabrol has taken promising material for a black comedy and turned it instead into a somber chamber drama . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: and if you 're not nearly moved to tears by a couple of scenes , you 've got ice water in your veins . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: two hours fly by -- opera 's a pleasure when you do n't have to endure intermissions -- and even a novice to the form comes away exhilarated . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: drops you into a dizzying , volatile , pressure-cooker of a situation that quickly snowballs out of control , while focusing on the what much more than the why . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: the movie is n't just hilarious : it 's witty and inventive , too , and in hindsight , it is n't even all that dumb . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: no screen fantasy-adventure in recent memory has the showmanship of clones ' last 45 minutes . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: if you 've ever entertained the notion of doing what the title of this film implies , what sex with strangers actually shows may put you off the idea forever . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: sit through this one , and you wo n't need a magic watch to stop time ; your dvd player will do it for you . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: ... routine , harmless diversion and little else . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: is the time really ripe for a warmed-over james bond adventure , with a village idiot as the 007 clone ? 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: samira makhmalbaf 's new film blackboards is much like the ethos of a stream of consciousness , although , it 's unfortunate for the viewer that the thoughts and reflections coming through are torpid and banal 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: every time you look , sweet home alabama is taking another bummer of a wrong turn . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: corpus collosum -- while undeniably interesting -- wore out its welcome well before the end credits rolled about 45 minutes in . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: whaley 's determination to immerse you in sheer , unrelenting wretchedness is exhausting . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: it 's everything you do n't go to the movies for . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: but taken as a stylish and energetic one-shot , the queen of the damned can not be said to suck . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: the man from elysian fields is a cold , bliss-less work that groans along thinking itself some important comment on how life throws us some beguiling curves . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: american chai encourages rueful laughter at stereotypes only an indian-american would recognize . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: and when you 're talking about a slapstick comedy , that 's a pretty big problem . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: a working class `` us vs. them '' opera that leaves no heartstring untugged and no liberal cause unplundered . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: writer/director joe carnahan 's grimy crime drama is a manual of precinct cliches , but it moves fast enough to cover its clunky dialogue and lapses in logic . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: while its careful pace and seemingly opaque story may not satisfy every moviegoer 's appetite , the film 's final scene is soaringly , transparently moving . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: as ` chick flicks ' go , this one is pretty miserable , resorting to string-pulling rather than legitimate character development and intelligent plotting . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: the structure the film takes may find matt damon and ben affleck once again looking for residuals as this officially completes a good will hunting trilogy that was never planned . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: aside from minor tinkering , this is the same movie you probably loved in 1994 , except that it looks even better . 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: it 's somewhat clumsy and too lethargically paced -- but its story about a mysterious creature with psychic abilities offers a solid build-up , a terrific climax , and some nice chills along the way . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: it 's not original , and , robbed of the element of surprise , it does n't have any huge laughs in its story of irresponsible cops who love to play pranks . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: this film seems thirsty for reflection , itself taking on adolescent qualities . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: irwin is a man with enough charisma and audacity to carry a dozen films , but this particular result is ultimately held back from being something greater . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: the affectionate loopiness that once seemed congenital to demme 's perspective has a tough time emerging from between the badly dated cutesy-pie mystery scenario and the newfangled hollywood post-production effects . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: i can take infantile humor ... but this is the sort of infantile that makes you wonder about changing the director and writer 's diapers . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: late marriage 's stiffness is unlikely to demonstrate the emotional clout to sweep u.s. viewers off their feet . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: teen movies have really hit the skids . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: manages to show life in all of its banality when the intention is quite the opposite . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: what is 100 % missing here is a script of even the most elemental literacy , an inkling of genuine wit , and anything resembling acting . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: a better title , for all concerned , might be swept under the rug . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: ... mafia , rap stars and hood rats butt their ugly heads in a regurgitation of cinematic violence that gives brutal birth to an unlikely , but likable , hero . ' 
+Actual: Good (1)
+Predicted: Bad (0)
+--------------------------------------------------
+Review: it 's inoffensive , cheerful , built to inspire the young people , set to an unending soundtrack of beach party pop numbers and aside from its remarkable camerawork and awesome scenery , it 's about as exciting as a sunburn . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: while it 's genuinely cool to hear characters talk about early rap records ( sugar hill gang , etc. ) , the constant referencing of hip-hop arcana can alienate even the savviest audiences . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------
+Review: a subject like this should inspire reaction in its audience ; the pianist does not . 
+Actual: Bad (0)
+Predicted: Good (1)
+--------------------------------------------------

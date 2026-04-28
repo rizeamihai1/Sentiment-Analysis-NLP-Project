@@ -1,0 +1,137 @@
+{
+  "model": "RoBERTa-SCL",
+  "model_hf_name": "roberta-base",
+  "dataset": "IMDB",
+  "run_name": "roberta-base_ep3_bs32_lr2e-05_14_04_2026_10_38_13",
+  "timestamp": "14_04_2026_10_38_13",
+  "seed": 42,
+  "model_params": {
+    "num_epochs": 3,
+    "batch_size": 32,
+    "learning_rate": 2e-05,
+    "max_length": 256,
+    "total_params": 124762114,
+    "trainable_params": 124762114,
+    "temperature": 0.3,
+    "lambda_scl": 0.5,
+    "proj_dim": 128
+  },
+  "model_size": {
+    "bytes": 499048456,
+    "MB": 475.9297
+  },
+  "training": {
+    "training_time_seconds": 1052.9475,
+    "entries_per_second": 56.98,
+    "num_epochs": 3,
+    "train_samples": 20000
+  },
+  "data": {
+    "train_samples": 20000,
+    "validation_samples": 5000,
+    "test_samples": 25000,
+    "text_column": "text_original",
+    "label_column": "label",
+    "classes": [
+      0,
+      1
+    ]
+  },
+  "optimizer": {
+    "name": "AdamW",
+    "lr": 2e-05,
+    "weight_decay": 0.01
+  },
+  "scheduler": {
+    "name": "linear_warmup",
+    "warmup_ratio": 0.06,
+    "total_steps": 1875
+  },
+  "train_results": {
+    "accuracy": 0.9849,
+    "precision_macro": 0.9849,
+    "recall_macro": 0.9849,
+    "f1_macro": 0.9849,
+    "precision_per_class": [
+      0.9873,
+      0.9825
+    ],
+    "recall_per_class": [
+      0.9824,
+      0.9874
+    ],
+    "f1_per_class": [
+      0.9849,
+      0.9849
+    ],
+    "confusion_matrix": [
+      [
+        9824,
+        176
+      ],
+      [
+        126,
+        9874
+      ]
+    ],
+    "loss": 0.0626
+  },
+  "validation_results": {
+    "accuracy": 0.9336,
+    "precision_macro": 0.9336,
+    "recall_macro": 0.9336,
+    "f1_macro": 0.9336,
+    "precision_per_class": [
+      0.9336,
+      0.9336
+    ],
+    "recall_per_class": [
+      0.9336,
+      0.9336
+    ],
+    "f1_per_class": [
+      0.9336,
+      0.9336
+    ],
+    "confusion_matrix": [
+      [
+        2334,
+        166
+      ],
+      [
+        166,
+        2334
+      ]
+    ],
+    "loss": 0.2513
+  },
+  "test_results": {
+    "accuracy": 0.939,
+    "precision_macro": 0.9391,
+    "recall_macro": 0.939,
+    "f1_macro": 0.939,
+    "precision_per_class": [
+      0.9439,
+      0.9342
+    ],
+    "recall_per_class": [
+      0.9335,
+      0.9446
+    ],
+    "f1_per_class": [
+      0.9387,
+      0.9394
+    ],
+    "confusion_matrix": [
+      [
+        11669,
+        831
+      ],
+      [
+        693,
+        11807
+      ]
+    ],
+    "loss": 0.2291
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "model": "Model4",
+  "dataset": "SST-2",
+  "run_name": "Model4_C0.1_feat50000_10_16_08",
+  "model_params": {
+    "type": "LinearSVC_NBSVM",
+    "C": 0.1,
+    "max_iter": 20
+  },
+  "seed": 42,
+  "training": {
+    "training_time_seconds": 21.0093,
+    "train_samples": 67349
+  },
+  "vectorization": {
+    "method": "TF-IDF + NB-Weights",
+    "max_features": 50000,
+    "ngram_range": [
+      1,
+      2
+    ]
+  },
+  "train_results": {
+    "accuracy": 0.9381,
+    "loss": 0.2539
+  },
+  "validation_results": {
+    "accuracy": 0.8383,
+    "loss": 0.4926,
+    "f1_macro": 0.8379,
+    "confusion_matrix": [
+      [
+        343,
+        85
+      ],
+      [
+        56,
+        388
+      ]
+    ]
+  }
+}
